@@ -1,0 +1,14 @@
+C:\Users\lolsk\Desktop\IP LOOKUP TOOl\Skid Lookup\bin\Debug\Skid Lookup.exe.config
+C:\Users\lolsk\Desktop\IP LOOKUP TOOl\Skid Lookup\bin\Debug\Skid Lookup.exe
+C:\Users\lolsk\Desktop\IP LOOKUP TOOl\Skid Lookup\bin\Debug\Skid Lookup.pdb
+C:\Users\lolsk\Desktop\IP LOOKUP TOOl\Skid Lookup\bin\Debug\MetroFramework.Design.dll
+C:\Users\lolsk\Desktop\IP LOOKUP TOOl\Skid Lookup\bin\Debug\MetroFramework.dll
+C:\Users\lolsk\Desktop\IP LOOKUP TOOl\Skid Lookup\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\lolsk\Desktop\IP LOOKUP TOOl\Skid Lookup\obj\Debug\Skid Lookup.csprojAssemblyReference.cache
+C:\Users\lolsk\Desktop\IP LOOKUP TOOl\Skid Lookup\obj\Debug\Skid_Lookup.Form1.resources
+C:\Users\lolsk\Desktop\IP LOOKUP TOOl\Skid Lookup\obj\Debug\Skid_Lookup.Properties.Resources.resources
+C:\Users\lolsk\Desktop\IP LOOKUP TOOl\Skid Lookup\obj\Debug\Skid Lookup.csproj.GenerateResource.cache
+C:\Users\lolsk\Desktop\IP LOOKUP TOOl\Skid Lookup\obj\Debug\Skid Lookup.csproj.CoreCompileInputs.cache
+C:\Users\lolsk\Desktop\IP LOOKUP TOOl\Skid Lookup\obj\Debug\Skid Lookup.csproj.CopyComplete
+C:\Users\lolsk\Desktop\IP LOOKUP TOOl\Skid Lookup\obj\Debug\Skid Lookup.exe
+C:\Users\lolsk\Desktop\IP LOOKUP TOOl\Skid Lookup\obj\Debug\Skid Lookup.pdb
